@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Divided Oracle — QuantStorm 2026 (QATC IITD X FEC IITG X QUANT CLUB IITB)
 
 <p align="center">
@@ -122,3 +123,6 @@ Use the leaderboard as a benchmark to experiment, improve, and see how your stra
 A google form link will be shared in this README at 11:00PM, where you can submit your bot python file by 11:59PM, 17th August. Please follow all the guidelines mentioned in the rulebook for the submission.
 **Note that you can only upload your final strategy once in the google form, so choose your final strategy wisely.**
 
+=======
+# QuantStorm
+>>>>>>> 0751ef0ad6dd1ae1a4afcda9d50eb3a899b3e63f
